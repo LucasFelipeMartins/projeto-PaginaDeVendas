@@ -20,7 +20,7 @@ O foco principal foi praticar **estilizações avançadas em CSS**, estruturaç�
 ## 🖼️ Screenshots  
 
 ### 🔹 Página Inicial  
-![Página Inicial](./assets/demonstracao/Captura de Tela (35).png)  
+![Página Inicial](./assets/demonstracao/Captura%20de%20Tela%20(35).png)
 
 ### 🔹 Sessão "Sobre Nós"  
 ![Sobre Nós](./assets/about.png)  
