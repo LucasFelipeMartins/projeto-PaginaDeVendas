@@ -17,7 +17,7 @@ O foco principal foi praticar **estilizações avançadas em CSS**, estruturaç�
 
 ---
 
-##📸 Demonstração
+## 📸 Demonstração
 
 ### 🔹 Página Inicial  
 ![Página Inicial](./assets/demonstracao/Captura%20de%20Tela%20(35).png)
