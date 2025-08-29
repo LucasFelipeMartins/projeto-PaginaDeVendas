@@ -23,22 +23,22 @@ O foco principal foi praticar **estilizações avançadas em CSS**, estruturaç�
 ![Página Inicial](./assets/demonstracao/Captura%20de%20Tela%20(35).png)
 
 ### 🔹 Sessão "Sobre Nós"  
-![Sobre Nós](./assets/about.png)  
+![Sobre Nós](./assets/demonstracao/Captura%20de%20Tela%20(36).png)
 
 ### 🔹 Projetos  
-![Projetos](./assets/projects.png)  
+![Projetos](./assets/demonstracao/Captura%20de%20Tela%20(37).png) 
 
 ### 🔹 Equipe  
-![Equipe](./assets/team.png)  
+![Equipe](./assets/demonstracao/Captura%20de%20Tela%20(38).png)
 
 ### 🔹 Planos e Preços  
-![Planos e Preços](./assets/pricing.png)  
+![Planos e Preços](./assets/demonstracao/Captura%20de%20Tela%20(39).png)
 
 ### 🔹 Sessão Premium  
-![Sessão Premium](./assets/premium.png)  
+![Sessão Premium](./assets/demonstracao/Captura%20de%20Tela%20(40).png)  
 
 ### 🔹 Contato  
-![Contato](./assets/contact.png)  
+![Contato](./assets/demonstracao/Captura%20de%20Tela%20(41).png)
 
 ---
 
@@ -53,3 +53,7 @@ Esse foi um dos meus **primeiros projetos de prática** com HTML e CSS.
 Apesar de não ser responsivo e ter algumas redundâncias no código, ele foi essencial para consolidar minha base em estilização e criação de layouts modernos.  
 
 ---
+
+## 👨‍💻 Autor  
+
+Feito por **[Lucas Felipe Martins](https://github.com/LucasFelipeMartins)**  
