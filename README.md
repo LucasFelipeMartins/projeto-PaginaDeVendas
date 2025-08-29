@@ -49,8 +49,8 @@ O foco principal foi praticar **estilizações avançadas em CSS**, estruturaç�
 ---
 
 ## 📌 Observações  
-Esse foi um dos meus **primeiros projetos de prática** com HTML e CSS.  
-Apesar de não ser responsivo e ter algumas redundâncias no código, ele foi essencial para consolidar minha base em estilização e criação de layouts modernos.  
+- Esse foi um dos meus **primeiros projetos de prática** com HTML e CSS.  
+- Apesar de não ser responsivo e ter algumas redundâncias no código, ele foi essencial para consolidar minha base em estilização e criação de layouts modernos.  
 
 ---
 
